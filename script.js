@@ -1,1 +1,1 @@
-
+let ass=[1 ,2 , 'asscheeks', true, 9 ]
